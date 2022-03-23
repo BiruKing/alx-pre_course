@@ -1,7 +1,0 @@
-git push
-git status
-git branch
-git checkout
-git add .
-git commmit -m ""
-git pull
